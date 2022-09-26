@@ -1,6 +1,7 @@
 import Animation from "./components/Animation";
+import Variants from "./components/Variants";
 
 function App() {
-  return <Animation />;
+  return <Variants />;
 }
 export default App;
