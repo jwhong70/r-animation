@@ -8,8 +8,9 @@ import Path from "./components/Path";
 import Slide from "./components/Slide";
 import Layout from "./components/Layout";
 import SharedLayout from "./components/SharedLayout";
+import FinalProject from "./components/FinalProject";
 
 function App() {
-  return <SharedLayout />;
+  return <FinalProject />;
 }
 export default App;
