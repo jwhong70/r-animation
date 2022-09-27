@@ -6,8 +6,9 @@ import MotionValue from "./components/MotionValue";
 import Scroll from "./components/Scroll";
 import Path from "./components/Path";
 import Slide from "./components/Slide";
+import Layout from "./components/Layout";
 
 function App() {
-  return <Slide />;
+  return <Layout />;
 }
 export default App;
