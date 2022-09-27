@@ -7,8 +7,9 @@ import Scroll from "./components/Scroll";
 import Path from "./components/Path";
 import Slide from "./components/Slide";
 import Layout from "./components/Layout";
+import SharedLayout from "./components/SharedLayout";
 
 function App() {
-  return <Layout />;
+  return <SharedLayout />;
 }
 export default App;
